@@ -10,7 +10,7 @@ This can be handy to identify which CVEs should be considered a priority and als
 
 For more information on EPSS see ["EPSS Model"](https://www.first.org/epss/model)
 
-<img src="example.png" />
+<img src="example1.png" />
 
 
 
